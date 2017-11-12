@@ -1,7 +1,7 @@
 '''
 Created on Sep 4, 2017
 
-@author: jpi1
+@author: Indu
 '''
 import unittest
 from boto.sqs.message import Message
